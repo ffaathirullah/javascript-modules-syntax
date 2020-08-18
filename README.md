@@ -1,4 +1,6 @@
 
+Javascript Syntax sudah ES6
+
 
 ## Installation
 
